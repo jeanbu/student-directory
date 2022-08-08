@@ -4,6 +4,6 @@ The student directory script manages the list of students at Villains Academy.
 
 ## How to use
 
-'''shell
+```shell
 ruby directory.rb
-'''
+```
